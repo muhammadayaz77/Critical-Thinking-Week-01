@@ -1,4 +1,4 @@
- // Palindrom 01
+ // Palindrome 01
  let word = 'saas';
  word = word.split('')
  console.log(word.reverse === word.forward)
